@@ -13,7 +13,7 @@ This project is a simple web application built using **Flask** and **HTML** to d
 ## Technologies Used
 
 - **Python (Flask)**: Backend framework for serving the web application.
-- **HTML & Jinja2**: Templating language for rendering dynamic content.
+- **HTML**: Templating language for rendering dynamic content.
 - **Bootstrap 5**: Frontend framework for styling and responsive design.
 - **Rick and Morty API**: External API used to fetch character data.
 
@@ -72,7 +72,7 @@ rick-and-morty-app/
 │   ├── characters.html   # Character list page
 │   ├── profile.html      # Character profile page
 │   └── episodes.html     # Episodes page
-└── static/               # Directory for static files (CSS, images, etc.)
+
 ```
 
 ---
