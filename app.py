@@ -42,3 +42,8 @@ def get_list_characters():
         
     return {'characters': characters_list}
 
+@app.route('/episodios')
+def get_episodes():
+    return render_template("episodes.html")
+
+
