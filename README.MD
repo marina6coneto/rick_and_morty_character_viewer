@@ -52,12 +52,12 @@ This project is a simple web application built using **Flask** and **HTML** to d
 ### Home Page - Characters List
 The home page displays a list of characters fetched from the Rick and Morty API. Each character has an image, name, and a link to view their profile.
 
-![Home Page](home.png)
+![Home Page](screenshots/home.png)
 
 ### Character Profile Page
 The profile page displays detailed information about the selected character, including their image and name.
 
-![Character Profile Page](character.png)
+![Character Profile Page](screenshots/character.png)
 
 
 ## Project Structure
