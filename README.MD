@@ -21,7 +21,7 @@ This project is a simple web application built using **Flask** and **HTML** to d
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/yourusername/rick-and-morty-app.git
+   git clone https://github.com/marina6coneto/rick-and-morty-app.git
    ```
    
 2. **Navigate to the project directory**:
